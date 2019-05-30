@@ -1,4 +1,4 @@
-#canvas 知识点整理
+# canvas 知识点整理
 canvas是一个可以使用脚本来绘制图形的HTML元素
 
 ## 基本用法
